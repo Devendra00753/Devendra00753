@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devendra00753
-- 👀 I’m interested in Nodejs and it's frameworks like express js and nest js
+- 👀 I’m interested in java and springboot
 - 🌱 I’m currently learning nest Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
