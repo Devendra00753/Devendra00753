@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Devendra00753
-- 👀 I’m interested in java and springboot
-- 🌱 I’m currently learning nest Js
+- 👋 Hi, I’m @devendra1310
+- 👀 I’m interested in react,node js and mysql
+- 🌱 I’m currently learning react Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
